@@ -1,2 +1,4 @@
-# spark-tutorial
-Spark tutorial
+# Spark Tutorial
+Spark tutorial, covering basics, data cleaning, Spark SQL & DataFrames, using PySpark. As guided by the Spark and MapReduce course by Dataquest.io.
+
+All data files included in the 'data' folder.
